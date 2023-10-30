@@ -1,0 +1,3 @@
+# Blocks ZDNS
+0.0.0.0 strelyaj.ru
+
